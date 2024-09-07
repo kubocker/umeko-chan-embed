@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "kubocker-aa1ba"
+  },
+  "targets": {
+    "kubocker-aa1ba": {
+      "hosting": {
+        "hagurumaembed": [
+          "haguruma-embed"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
